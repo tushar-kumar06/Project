@@ -1007,7 +1007,7 @@ footer a:hover {
 
 /* cart */
 #page-header.cart {
-    background-image: url("/Asset/About/Banner.png");
+    background-image: url("/Asset/About/banner.png");
 }
 
 #cart {
@@ -1439,3 +1439,4 @@ footer a:hover {
     }
 
 }
+
